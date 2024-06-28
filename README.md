@@ -1,7 +1,6 @@
 # AWSScrape
 AWSScrape is a tool designed to scrape SSL certificates from all AWS IP ranges, searching for specific keywords in the certificates' Common Name (CN), Organization (O), and Organizational Unit (OU) fields.
 
-[![Twitter](https://img.shields.io/badge/twitter-@jhaddix-blue.svg)](https://twitter.com/jhaddix)
 ## Installation
 
 1. Clone this repository:
