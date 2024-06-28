@@ -6,7 +6,7 @@ AWSScrape is a tool designed to scrape SSL certificates from all AWS IP ranges, 
 1. Clone this repository:
 
 ```
-git clone https://github.com/jhaddix/awsscrape.git
+git clone https://github.com/sancrusader/aws-scraping.git
 cd awsscrape
 ```
 
